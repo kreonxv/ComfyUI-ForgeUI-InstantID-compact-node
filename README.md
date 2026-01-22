@@ -1,4 +1,4 @@
-# 🎨 ComfyUI-ForgeAPI
+# 🎨 ComfyUI-ForgeAPI for InstantID workflow
 
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-Extension-blue?style=flat-square) ![SDXL](https://img.shields.io/badge/Model-SDXL-orange?style=flat-square) ![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 
